@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Powered Image Generator",
+  "description": "A tool that generates images from text prompts using Google's Gemini API. Just type what you imagine, and the AI creates it instantly.",
+  "requestFramePermissions": []
+}
